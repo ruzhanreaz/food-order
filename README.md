@@ -164,7 +164,7 @@ The Order Service supports the following environment variables:
 
 Detailed endpoints, request schemas, response examples, and error mappings are documented in:
 
-**[API_CONTRACT.md](./API_CONTRACT.md)**
+**[API_CONTRACT.md](./docs/API_CONTRACT.md)**
 
 Interactive API documentation is also available at:
 
