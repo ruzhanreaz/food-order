@@ -246,14 +246,3 @@ Inspect Order Service logs:
 ```bash
 docker logs order-service --tail 20
 ```
-
-## Limitations
-
-- Data is stored in memory and is lost when a service restarts.
-- The system does not include persistent database storage.
-- Authentication and authorization are not implemented.
-- The services are designed as a foundational microservice demonstration, not a production-ready deployment.
-
-## License
-
-This project is intended for educational and demonstration purposes.
